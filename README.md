@@ -3,6 +3,7 @@ A Z690 hackintosh (aka a massive headache)
 
 # Specs:
 CPU: Intel i7-12700k
+
 GPU: RX 580
 RAM: 32GB (in DIMM2 and DIMM4) Corsair Dominator Pro 5600 MHZ
 Ethernet: Intel I225-V Ethernet
